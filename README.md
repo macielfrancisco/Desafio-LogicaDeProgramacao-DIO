@@ -18,3 +18,7 @@ Além disso, entendimento sobre:
 - Operadores Relacionais
 
 - Estruturas condicionais e de controle
+
+## Detalhes da aplicação
+
+Criado uma estrutura condicional no qual o herói informa seu nome e quantidade de XP adquirido. Dependendo da quantidade será classificado o seu nível. Utilizado a estrutura condicional (if else if) para realizar a orientação do algoritmo. Além disso, testado estruturas de controle com um controlador a parte devido os dados serem entradas simuladas pelo próprio programa e não por um usuário.
