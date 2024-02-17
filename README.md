@@ -11,10 +11,10 @@ Verificar maiores informações no arquivo desafio-1.md;
 Conhecimentos adquiridos em torno da trajetória foi sobre o pensamento lógico conceitual, fluxograma e computacional.
 Além disso, entendimento sobre:
 
-# Variáveis
+- Variáveis
 
-# Operadores Aritméticos
+- Operadores Aritméticos
 
-# Operadores Relacionais
+- Operadores Relacionais
 
-# Estruturas condicionais e de controle
+- Estruturas condicionais e de controle
